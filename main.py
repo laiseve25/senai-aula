@@ -1,1 +1,3 @@
-print('bom dia')
+import cat
+
+cat.getCat(filename='cat')
